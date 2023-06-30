@@ -17,4 +17,4 @@ public sealed class Magazine : Publication
 
 
 
-}   
+}

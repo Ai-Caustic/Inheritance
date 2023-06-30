@@ -40,6 +40,12 @@ public abstract class Publication
         }
     }
 
+    // TODO
+
+
+       
+  
+
     public string GetPublicationDate()
     {
         if (!_published)
